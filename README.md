@@ -13,7 +13,7 @@ Aplikasi ini dibuat menggunakan react native, untuk menjalankan aplikasi ini dap
 Terdapat package modul yang digunakan dalam aplikasi ini yaitu <a href="https://reactnavigation.org/docs/getting-started"><b>react-navigation</b></a> dan <a href="https://github.com/oblador/react-native-vector-icons"><b>react-native-vector-icons</b></a>
 <b>Penjelasan Aplikasi:</b>
 
-Aplikasi ini dapat menerima input lokasi keberangkatan pesawat dari bandara <b>Soekarno Hatta</b> ke lokasi tujuan bandara <b>Raden Inten</b> dan keberangkatan pesawat dari
+Pada gambar dibawah ini aplikasi menerima input lokasi keberangkatan pesawat dari bandara <b>Soekarno Hatta</b> ke lokasi tujuan bandara <b>Raden Inten</b>
 
 <b>Screenshot Aplikasi:</b>
 
